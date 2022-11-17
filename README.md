@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jovan!</h1>
+<h1 align="center">Zdravo 👋, ja sam Jovan!</h1>
 <h3 align="center">Učenik Tehničke Škole.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
