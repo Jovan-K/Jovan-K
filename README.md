@@ -2,7 +2,8 @@
 <p> Moji mali projekti: </p>
 
 
-<a href = "https://jovan-k.github.io/Digitron/"> <i>Digitron ogranicenih sposobnosti sa sarenim bojama </i><b>(HTML, CSS, JS)</b></a> Radjen sa: @NemanjaMitov <b>(HTML, CSS)</b>
+<a href = "https://jovan-k.github.io/Digitron/"> <i>Digitron ogranicenih sposobnosti sa sarenim bojama </i><b>(HTML, CSS, JS)</b></a>
+Radjen sa: @NemanjaMitov **(HTML, CSS)**
 <br>
 <a href = "https://jovan-k.github.io/Kalendar/"> <i>Prosta stranica kalendara za unesen mesec i godinu </i><b>(HTML, CSS, JS)</b></a> Radjen sa: @NemanjaMitov <b>(HTML, CSS)</b>
 
