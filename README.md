@@ -2,15 +2,23 @@
 
 # ⌨ Moji mali projekti:
 
+### 👨‍💻 Solo projekti:
+
 <a href = "https://jovan-k.github.io/Memorije/"> <i>Igra memorije inspirasana popularnom igrom "Simon Says" </i><b>(HTML, CSS, JS)</b></a>
 <br>
 <a href = "https://jovan-k.github.io/ColorGuessr/"> <i>Mini igrica za pogadjanje HEX koda boje </i><b>(HTML, CSS, JS)</b></a>
 <br>
+
+### 🔗 Zajednicki projekti:
 <a href = "https://jovan-k.github.io/Digitron/"> <i>Digitron ogranicenih sposobnosti sa sarenim bojama </i><b>(HTML, CSS, JS)</b></a>
 Radjen sa: <a href = https://github.com/NemanjaMitov>@NemanjaMitov</a> **(HTML, CSS)**
 <br>
 <a href = "https://jovan-k.github.io/Kalendar/"> <i>Prosta stranica kalendara za unesen mesec i godinu </i><b>(HTML, CSS, JS)</b></a> Radjen sa: <a href = https://github.com/NemanjaMitov>@NemanjaMitov</a> <b>(HTML, CSS)</b>
 <br>
+
+<a href = "https://github.com/stars/Jovan-K/lists/zajednicki-projekti"> <i>Projekti u kojima sam ucestvovao </i><b>(JS)</b></a>
+
+
 
 
 
