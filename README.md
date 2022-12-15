@@ -13,7 +13,9 @@
 
 <a href = "https://jovan-k.github.io/Sociologija-KVIZ/"> <i>Kviz iz sociologije sa nivoima </i><b>(HTML, CSS, JS)</b></a>
 <br>
-<a href = "https://jovan-k.github.io/Maturski-rad-web-1/"> <i>Vezba za maturski ispit </i><b>(HTML, CSS, JS)</b></a>
+<a href = "https://jovan-k.github.io/Maturski-rad-web-1/"> <i>Vezba za maturski ispit 1</i><b>(HTML, CSS, JS)</b></a>
+<br>
+<a href = "https://jovan-k.github.io/Maturski-Rad-Web-2/"> <i>Vezba za maturski ispit 2</i><b>(HTML, CSS, JS)</b></a>
 <br>
 
 ### 🔗 Zajednicki projekti:
