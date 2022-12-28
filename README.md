@@ -17,6 +17,8 @@
 <br>
 <a href = "https://jovan-k.github.io/Maturski-Rad-Web-2/"> <i>Vezba za maturski ispit 2</i><b>(HTML, CSS, JS)</b></a>
 <br>
+<a href = "https://jovan-k.github.io/Zavrsni-Projekat/"> <i>Sajt za kraj prvog polugodja iz Veb Programiranja</i><b>(HTML, CSS, JS)</b></a>
+<br>
 
 ### 🔗 Zajednicki projekti:
 <a href = "https://jovan-k.github.io/Digitron/"> <i>Digitron ogranicenih sposobnosti sa sarenim bojama </i><b>(HTML, CSS, JS)</b></a>
